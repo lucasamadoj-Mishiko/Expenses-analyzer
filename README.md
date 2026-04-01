@@ -1,9 +1,3 @@
-¡Qué bueno que ya quedó limpio ese repositorio! Solucionar un leak de secretos y limpiar el historial de Git es una medalla de honor para cualquier desarrollador; ya sos un poquito más Senior que hace un rato.
-
-Para el README, lo ideal es que sea claro, visual y que explique el "porqué" del proyecto. Un reclutador no lee todo el código, pero sí mira el README para ver cómo pensás.
-
-Aquí tenés una estructura profesional (en inglés, que es el estándar de la industria) que podés copiar y pegar:
-
 💰 Expenses Analyzer: From PDF to BigQuery
 Este proyecto nace de la necesidad de automatizar el seguimiento de finanzas personales, transformando extractos bancarios "sucios" (PDF/CSV) en datos estructurados listos para el análisis en la nube.
 
@@ -36,8 +30,7 @@ Plaintext
 ├── app.py               # Main Streamlit application
 ├── requirements.txt     # Project dependencies
 ├── .gitignore           # Safety first! (Secrets & Data excluded)
-└── README.md
-⚙️ Setup & Installation
+└── README.md⚙️ Setup & Installation
 Clone the repository.
 
 Install dependencies: pip install -r requirements.txt.
