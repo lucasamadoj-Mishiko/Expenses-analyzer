@@ -1,0 +1,22 @@
+# Google Cloud Secrets
+service_account.json
+credentials.json
+git secret.txt
+
+# Archivos de datos sensibles
+*.pdf
+*.csv
+account_statement*
+
+# Entorno virtual de Python
+venv/
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuración local de Streamlit (opcional)
+.streamlit/config.toml
+
+
